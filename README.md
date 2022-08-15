@@ -4,6 +4,18 @@
 1. OBJETIVOS
 
 
+Implementar el teorema de thevenin , superposición y transferencia de potencia ,mediante su simulación en donde se medir el voltaje y corrientes ,utilizando el simulador Tinkercad
+
+
+*Detallar y explicar en qué consiste cada teoría y los pasos para poder usarlos 
+
+
+*Encontrar la corriente y voltaje en los teoremas correspondientes 
+
+
+*Implementar lo teórico en la práctica usando tinkercad
+
+
 
 
 2. MARCO TEÓRICO (RESUMEN)
@@ -11,6 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/105679480/184639525-647065c8-ab92-48ff-bf1f-3a8730280155.png)
 ![image](https://user-images.githubusercontent.com/105679480/184639578-43bfd2e6-e19a-4efa-9034-a85b3eb72f22.png)
+![image](https://user-images.githubusercontent.com/105679480/184651038-fa768915-4496-4cbe-905c-c681041013ba.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -35,18 +48,22 @@ EJERCICIO 3
 ![image](https://user-images.githubusercontent.com/105679480/184647134-dd6f6409-c5fe-4312-94d5-2a3ec229db03.png)
 ![image](https://user-images.githubusercontent.com/105679480/184647411-c86ed587-8b03-4bc1-859f-6bca2c8d2c4c.png)
 ![image](https://user-images.githubusercontent.com/105679480/184647456-1028fd61-6f8a-495c-b3f2-2a8ef60bbde6.png)
-4. 
+
+
+4.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 ![image](https://user-images.githubusercontent.com/105679480/184650368-6171ee67-4c2f-4341-8ae1-ebbb027eef70.png)
 
 4. VÍDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+*hemos comprobado de forma tanto teorica como practica la funcionalidad del teorema de Thevenin que es de mucha utilidad ya que puede servir para reducir un circuito complejo en uno mucho mas sencillo para medir corriente o voltaje en algunos elementos del circuito. 
+
+* El teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema , para luego sumar estos datos y hallar los verdaderos valores proporcionados por el circuito
+
+*la máxima potencia se da cuando la carga total de resistencia de igual a la resistencia de thevenin 
 
 6. BIBLIOGRAFÍA
 
